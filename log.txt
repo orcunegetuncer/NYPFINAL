@@ -1,0 +1,19 @@
+Tuş basıldı: D
+Tuş basıldı: D
+Tuş basıldı: D
+Tuş basıldı: D
+Tuş basıldı: D
+Tuş basıldı: D
+Tuş basıldı: D
+Tuş basıldı: D
+Tuş basıldı: S
+Tuş basıldı: A
+Tuş basıldı: D
+Tuş basıldı: A
+Tuş basıldı: S
+Tuş basıldı: A
+Tuş basıldı: S
+Tuş basıldı: D
+Tuş basıldı: A
+Tuş basıldı: S
+Fare tıklandı: X=140.0, Y=368.0
