@@ -22,9 +22,9 @@ public class SendMail {
     public void sendmail() {
         String host = "smtp.gmail.com";
         String port = "465";
-        String username = "barbarosozturk61@gmail.com";
-        String password = "riyzfjuoxvnjkusu";
-        String fromAddress = "barbarosozturk61@gmail.com";
+        String username = "";
+        String password = "";
+        String fromAddress = "";
 
         Properties props = new Properties();
         props.put("mail.smtp.auth", "true");
